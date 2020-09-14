@@ -1,4 +1,4 @@
-import { Avatar, Box, Card, CardContent, CardHeader, makeStyles, Typography } from '@material-ui/core';
+import { Avatar, Box, Card, CardContent, CardHeader,  Typography } from '@material-ui/core';
 
 import React from 'react';
 import Image from '../Images/Images';
